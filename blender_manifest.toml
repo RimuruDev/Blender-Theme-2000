@@ -1,0 +1,10 @@
+schema_version = "1.0.0"
+id = "theme_2000"
+name = "Theme 2000"
+version = "1.1.0"
+tagline = "Inspired by Windows XP, MS office 2007, Sims"
+maintainer = "Danil Orlow <oddmit@outlook.com>"
+type = "theme"
+tags = ["Light", "Inspired By"]
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-2.0-or-later"]
